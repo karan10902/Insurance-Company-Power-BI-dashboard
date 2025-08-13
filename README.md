@@ -42,9 +42,7 @@ An interactive Power BI dashboard that provides comprehensive analysis across:
 
 ### Detailed Analytics Dashboard
 (<img width="1295" height="723" alt="image" src="https://github.com/user-attachments/assets/b410f6ae-b86d-4591-8ff1-1bcf71f92faa" />
-<img width="1295" height="723" alt="image" src="https://github.com/user-attachments/assets/ffdb5c29-937c-4355-812a-5f9f7802d2ff" />
 )
-*Customer segmentation, vehicle analysis, and profitability breakdown*
 
 ## 🔍 Key Findings
 
@@ -214,8 +212,6 @@ Key factors in pricing accuracy:
 - **Historical Data Usage**: Learning from past claims patterns  
 - **Market Competition**: Pressure to underprice for market share
 - **Regulatory Constraints**: Minimum coverage requirements
-
-### Data Modeling Best Practices
 
 #### Star Schema Design Benefits
 - **Performance**: Faster query execution
