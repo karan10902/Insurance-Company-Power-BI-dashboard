@@ -36,13 +36,12 @@ An interactive Power BI dashboard that provides comprehensive analysis across:
 ## 📊 Dashboard Preview
 
 ### Executive Summary Dashboard
-![Executive Dashboard](<img width="1289" height="708" alt="image" src="https://github.com/user-attachments/assets/5a9ce9eb-f9a8-4efd-9205-e9ebb188e401" />
-<img width="1289" height="708" alt="image" src="https://github.com/user-attachments/assets/19d40d91-50b0-4111-aeeb-5660b1201b4d" />
-)
+(<img width="1289" height="708" alt="image" src="https://github.com/user-attachments/assets/5a9ce9eb-f9a8-4efd-9205-e9ebb188e401" />
+
 *Key performance indicators and financial trends overview*
 
 ### Detailed Analytics Dashboard
-![Detailed Analytics](<img width="1295" height="723" alt="image" src="https://github.com/user-attachments/assets/b410f6ae-b86d-4591-8ff1-1bcf71f92faa" />
+(<img width="1295" height="723" alt="image" src="https://github.com/user-attachments/assets/b410f6ae-b86d-4591-8ff1-1bcf71f92faa" />
 <img width="1295" height="723" alt="image" src="https://github.com/user-attachments/assets/ffdb5c29-937c-4355-812a-5f9f7802d2ff" />
 )
 *Customer segmentation, vehicle analysis, and profitability breakdown*
